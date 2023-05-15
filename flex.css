@@ -1,0 +1,25 @@
+#container{
+	height: auto;
+	width: 75vh;
+	background-color:grey;
+	display: flex;
+	flex-direction:row;
+	
+
+}
+#container div{
+	height:200px;
+	width:200px;
+}
+#Div1{
+	background-color: pink;
+}
+#Div2{
+	background-color: orange;
+}
+#Div3{
+	background-color:green;
+}
+#Div4{
+	background-color: yellow;
+}
